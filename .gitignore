@@ -1,0 +1,4 @@
+# Pliki wgrywane przez użytkowników dysku (katalog dysk/ tworzony automatycznie)
+dysk/*
+# Avatary użytkowników zapisywane w katalogu głównym zadania
+avatar_*
